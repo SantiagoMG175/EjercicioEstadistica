@@ -107,13 +107,11 @@ void Principal::on_inNota1_valueChanged(int)
 }
 
 
-//Cerrar programa
 void Principal::on_actionSalir_triggered()
 {
     this->close();
 }
 
-//Guardar como png
 void Principal::on_actionGuardar_triggered()
 {
 

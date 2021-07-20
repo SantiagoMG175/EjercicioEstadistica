@@ -142,6 +142,8 @@ color: rgb(0, 0, 0);</string>
     <property name="title">
      <string>Opciones</string>
     </property>
+    <addaction name="actionGuardar"/>
+    <addaction name="actionSalir"/>
    </widget>
    <addaction name="menuOpciones"/>
   </widget>
@@ -174,11 +176,6 @@ color: rgb(0, 0, 0);</string>
    </property>
    <property name="text">
     <string>Salir </string>
-   </property>
-  </action>
-  <action name="actionHi">
-   <property name="text">
-    <string>Hi</string>
    </property>
   </action>
  </widget>
