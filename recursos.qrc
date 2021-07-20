@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>recursos/disquete.png</file>
+        <file>recursos/flecha.png</file>
+        <file>recursos/beneficios.png</file>
+    </qresource>
+</RCC>
